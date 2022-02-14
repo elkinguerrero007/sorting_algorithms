@@ -1,4 +1,4 @@
-ifndef MACRO_FUNCTIONS_H
+#ifndef MACRO_FUNCTIONS_H
 #define MACRO_FUNCTIONS_H
 
 /*------------------------------------------------*/
